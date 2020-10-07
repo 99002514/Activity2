@@ -4,4 +4,6 @@ The advanced scientific calculator performs various operations ranging from calc
 
 ![C/C++ CI](https://github.com/99002514/Activity2/workflows/C/C++%20CI/badge.svg)
 
+![Unit testing](https://github.com/99002514/Activity2/workflows/Unit%20testing/badge.svg)
+
 
