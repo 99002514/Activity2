@@ -6,14 +6,14 @@
 
 Integrated Tools to GitHub
 
-Codacy
+         Codacy
 
 GitHub Actions
 
-Build using Make for CI
+    Build using Make for CI
 
-Unit testing
+    Unit testing
 
-Static code analysis using cppcheck
+    Static code analysis using cppcheck
 
-Dynamic Code analysis using Valgrind
+    Dynamic Code analysis using Valgrind
